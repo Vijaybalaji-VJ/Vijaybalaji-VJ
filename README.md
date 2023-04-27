@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay Balaji</h1>
 <h3 align="center">Embedded Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaybalaji-vj&label=Profile%20views&color=0e75b6&style=flat" alt="vijaybalaji-vj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijaybalaji-vj" alt="vijaybalaji-vj" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/vidyut_vijay_" target="blank"><img src="https://img.shields.io/twitter/follow/vidyut_vijay_?logo=twitter&style=for-the-badge" alt="vidyut_vijay_" /></a> </p>
 
 - 🔭 I’m currently working on **Embedded Software Developer**
@@ -35,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaybalaji-vj&show_icons=true&locale=en&layout=compact" alt="vijaybalaji-vj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaybalaji-vj&show_icons=true&locale=en" alt="vijaybalaji-vj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaybalaji-vj&" alt="vijaybalaji-vj" /></p>
