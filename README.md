@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **anything related to C and Embedded technologies**
 
-- 📫 How to reach me **vijaybalaji171@gmail.com**
+- 📫 How to reach me **vijaybalajirbt@gmail.com**
 
 - ⚡ Fun fact **- I am Lazy but Smart**
 
